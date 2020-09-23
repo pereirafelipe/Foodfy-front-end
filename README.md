@@ -1,4 +1,4 @@
-<h1 align="center"> :books: :computer: Proffy </h1>
+<h1 align="center"> Foodfy </h1>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
