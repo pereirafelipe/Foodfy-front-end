@@ -5,30 +5,31 @@
   </a>
 </p>
 
+<p>O site Foodfy é um projeto do bootcamp Launch Base da RocketSeat, cujo objetivo é desenvolver um site de receitas conforme o design apresentado.</p>
 
-![proffy](https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/proffy.png)
-
-![lista](https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/proffyList.png)
-
+<p>Em sua versão inicial, o site deve apresentar quando selecionada a receita apenas um card com o nome da receita e autor. Porém em sua versão final serão adicionados os artigos através do Back-and desenvolvido com Node.js.</p>
 
 
+<img src="https://github.com/pereirafelipe/Foodfy-front-end/blob/master/assets/Foodfy2.gif" width="100%" alt="foodfy-gif" >
+                                                                                                               
+## :books:Paginas
+
+<p> O site contém 3 paginas
+  <ul>
+    <li>Home</li>
+    <li>Sobre</li>
+    <li>Receitas</li>
+    </ul>
+    
+![lista](https://github.com/pereirafelipe/Foodfy-front-end/blob/master/assets/Conjunto.png)    
 
 
-## Mobile First
-<p> Mobile First é um conceito aplicado em projetos web onde o foco inicial da arquitetura e desenvolvimento é direcionado aos dispositivos móveis e em seguida para os desktops. A técnica tem se popularizado cada vez mais entre os profissionais de marketing e tecnologia. 
-
-
-<div "display: flex">
-<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile1.png" width="285px" height="553" alt="mobile1">
-<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile2.png" width="285px" height="553" alt="mobile1">
-<img src="https://github.com/pereirafelipe/proffy-nlw2/blob/master/public/images/mobile3.png" width="285px" height ="553" alt="mobile1">
 
 
 
 ## Tecnologias
 
 - <a href="https://www.learn-html.org/" style="text-decoration: none; font-size: 16px; color: #fff;" >HTML5 </a>
-- <a href="https://nodejs.org/en/" style="text-decoration: none; font-size: 16px; color: #fff;" >Node JS </a>
 - <a href="https://www.javascript.com/" style="text-decoration: none; font-size: 16px; color: #fff;" >JavaScrit </a>
 - <a href="https://www.learn-html.org/" style="text-decoration: none; font-size: 16px; color: #fff;" >CSS</a>
 
